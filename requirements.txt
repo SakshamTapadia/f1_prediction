@@ -1,0 +1,19 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+xgboost
+
+# F1 data library
+fastf1
+
+# Visualization (optional but recommended)
+matplotlib
+seaborn
+
+# Jupyter notebooks (optional)
+jupyter
+notebook
+
+# Utilities
+tqdm
